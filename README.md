@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MUKEBUDAVID
-- 👀 I’m interested in java,js,php,python,c,C++,C#
+- 👀 I’m interested in java,js,php,python,C++,
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on HTML and css  ,java ,js,pyhton,c,c++,c#
+- 💞️ I’m looking to collaborate on HTML and css  ,java ,js,pyhton,c++
 - 📫 How to reach me github and gmail :davidmukebu@gmail.com
 
 <!---
